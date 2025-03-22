@@ -1,5 +1,5 @@
 # SweetSpot
-![SweetSpot](https://img.shields.io/badge/Intro%20to%20the%20programming%20language%20R-276DC3?style=for-the-badge&logo=r&logoColor=white)
+![SweetSpot](SweetSpot?style=for-the-badge&logo=r&logoColor=white)
 **Language:** R  
 **Purpose:** Classroom exercise — let students guess the number of sweets in a jar. This script calculates the mean, median, and removes outliers. It generates three plots in RStudio to visually illustrate key statistical concepts.
 
