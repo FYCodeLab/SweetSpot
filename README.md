@@ -15,7 +15,7 @@
 - An online form to collect guesses  
   *(Google Forms, Microsoft Forms, Framaforms, etc.)*
 - RStudio displayed on screen in the classroom
-- The `SWEETCOUNT.R` script and a `Data.txt` file to hold the collected responses
+- The `SWEETSPOT.R` script and a `Data.txt` file to hold the collected responses
 
 ---
 
