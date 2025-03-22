@@ -57,8 +57,8 @@
 
 ## How to Use
 
-1. Collect guesses and paste them (as one number per line) into `Data.txt`.
-2. Open RStudio and run `SWEETCOUNT.R`.
+1. Collect guesses and paste them (as one number per line) into `DATASTUDENTS.TXT`.
+2. Open RStudio and run `SWEETCOUNT3.R`.
 3. Plots will be displayed in the RStudio plot viewer.
 4. Discuss the results in class!
 
