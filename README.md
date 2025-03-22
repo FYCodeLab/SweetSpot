@@ -49,7 +49,7 @@
 
 *(Replace with real screenshots if desired)*
 
-- `guess_plot.png`  
+- `jarcode.png`  
 - `jitter_plot.png`  
 - `histogram_outliers.png`
 
