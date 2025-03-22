@@ -79,7 +79,7 @@ MIT License — feel free to adapt and reuse in your own classrooms!
 ---
 
 ## Contributions
-Thanks to Julien Grimaud for his patient discussions on the gield of AI and data, and to Mae Bourgeois for stimulating my interest in R.
+Thanks to Julien Grimaud for his patient discussions on the evolving field of AI and data science, and to Mae Bourgeois for stimulating my interest in R.
 
 As always, my programming capabilities are largely supported by ChatGPT. 4.5 , DeepSeek R1 and the Amazingly fast Mistral. For once Claude wasn't in the party. 
 
