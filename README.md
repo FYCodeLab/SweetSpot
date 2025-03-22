@@ -49,9 +49,10 @@
 
 *(Replace with real screenshots if desired)*
 
-- `jarcode.png`  
-- `jitter_plot.png`  
-- `histogram_outliers.png`
+<img src="https://github.com/FYCodeLab/SweetSpot/blob/main/assets/jar-code.png?raw=true" width="800"/>
+<img src="https://github.com/FYCodeLab/SweetSpot/blob/main/assets/screenshots-sweetspot.jpg?raw=true" width="800"/>
+
+
 
 ---
 
