@@ -60,4 +60,11 @@ Méline	73
 Elsa	200
 Chezan	100
 Emilie	1200
-	
+Chloe 	96
+Anna 	201
+Léa 	254
+Kathel	273
+Amandine	247
+Manon	167
+Vanessa 	250
+Clemence	46
