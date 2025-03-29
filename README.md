@@ -3,6 +3,17 @@
 **Language:** R  
 **Purpose:** Classroom exercise — let students guess the number of sweets in a jar. This script calculates the mean, median, and removes outliers. It generates three plots in RStudio to visually illustrate key statistical concepts.
 
+---
+
+
+<!-- Optional visual badge -->
+<!-- [![SweetSpot](https://img.shields.io/badge/🍬-SweetSpot·[Code]-orange?style=for-the-badge)](https://github.com/FYCodeLab/SweetSpot) -->
+
+#### 🔗 Open the interactive notebook in Google Colab:&nbsp;[![🇫🇷 French](https://flagcdn.com/24x18/fr.png)](https://colab.research.google.com/github/FYCodeLab/SweetSpot/blob/main/SweetSpot_NoteBook_fr.ipynb)&nbsp;[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/FYCodeLab/SweetSpot/blob/main/SweetSpot_NoteBook_fr.ipynb)
+
+---
+
+
 ## Overview
 
 **SweetSpot** is an engaging classroom activity designed to introduce students to basic statistics and the power of collective intelligence ("wisdom of the crowd"). Using R and a simple in-class exercise, students will submit their guesses for how many sweets are in a jar, and the teacher will use this script to process and visualize the results.
