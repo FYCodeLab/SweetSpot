@@ -9,7 +9,11 @@
 <!-- Optional visual badge -->
 <!-- [![SweetSpot](https://img.shields.io/badge/🍬-SweetSpot·[Code]-orange?style=for-the-badge)](https://github.com/FYCodeLab/SweetSpot) -->
 
-#### 🔗 Open the interactive notebook in Google Colab:&nbsp;[![🇫🇷 French](https://flagcdn.com/24x18/fr.png)](https://colab.research.google.com/github/FYCodeLab/SweetSpot/blob/main/SweetSpot_NoteBook_fr.ipynb)&nbsp;[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/FYCodeLab/SweetSpot/blob/main/SweetSpot_NoteBook_fr.ipynb)
+#### 🔗 Open the interactive notebook in Google Colab:&nbsp;[![🇫🇷 French](https://flagcdn.com/24x18/fr.png)](https://colab.research.google.com/github/FYCodeLab/SweetSpot/blob/main/SweetSpot_NoteBook_fr.ipynb)&nbsp;[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/FYCodeLab/SweetSpot/blob/main/SweetSpot_NoteBook_fr.ipynb)&nbsp;[![uk](https://flagcdn.com/24x18/gb.png)](https://colab.research.google.com/github/FYCodeLab/SweetSpot/blob/main/sweetcount_NoteBook_en.ipynb)&nbsp;[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/FYCodeLab/SweetSpot/blob/main/sweetcount_NoteBook_en.ipynb)
+
+
+
+
 
 ---
 
