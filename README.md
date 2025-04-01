@@ -70,6 +70,10 @@
 ---
 
 ## How to Use
+Option A: Google colab interactive notebook
+#### 🔗 Open the interactive notebook in Google Colab:&nbsp;[![🇫🇷 French](https://flagcdn.com/24x18/fr.png)](https://colab.research.google.com/github/FYCodeLab/SweetSpot/blob/main/SweetSpot_NoteBook_fr.ipynb)&nbsp;[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/FYCodeLab/SweetSpot/blob/main/SweetSpot_NoteBook_fr.ipynb)&nbsp;[![uk](https://flagcdn.com/24x18/gb.png)](https://colab.research.google.com/github/FYCodeLab/SweetSpot/blob/main/sweetcount_NoteBook_en.ipynb)&nbsp;[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/FYCodeLab/SweetSpot/blob/main/sweetcount_NoteBook_en.ipynb)
+
+Option B: R script
 
 1. Collect guesses and paste them (as one number per line) into `DATASTUDENTS.TXT`.
 2. Open RStudio and run `SWEETCOUNT3.R`.
